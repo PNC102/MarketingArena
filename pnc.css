@@ -1,9 +1,5 @@
 
-#logo
-{
-    float:right;
-    width: 40px;
-}
+
 
 
 #trangchu:hover
@@ -31,7 +27,7 @@
 
 }
 
-#dangki:hover
+#dangkithamgia:hover
 {
     color:white;
     background-color: #ffcf00;
@@ -60,4 +56,401 @@
     color:white;
     background-color: #ffcf00;
     border-radius: 10px;
+}
+
+#bacham
+{
+    width: 215px;
+    margin-left: auto;
+    margin-right:auto;
+    
+}
+
+#bacham2
+{
+    width: 215px;
+    float: right;
+}
+
+
+
+.container
+{
+    width:100%;
+   
+}
+
+#tuong
+{
+     width: 350px;
+     height: 575.78px;
+     float: left;
+     margin: 0px;
+     background-color: black;
+     
+}
+.column1 img{
+    width: 80%;
+  }
+
+#vechungtoi1
+{
+    width: 380px; 
+    height: 72.09px;
+    float: right;
+    vertical-align: middle;
+    margin: 60px 0 0;
+   
+}
+
+.column2{
+    font-size: 1.4rem;
+  }
+#vb
+{
+    padding-top: 25px;
+    width: 100%;
+    font-family: AvenirNextLTPro-Medium;
+    font-size: 30px;
+
+    text-align: fixed;
+    margin-left:auto;
+    margin-right:auto;
+    display: block;
+}
+
+.trang2{
+    margin-top: 150px;
+     font-size: 15px;
+   
+  }
+
+#ma-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    background-color: #f5f5f5;
+    margin-top: 10px;
+    padding-bottom: 182px;
+}
+#bannertrang2{
+  width: 374px;
+  
+}
+
+#thelevongthi{
+  width: 360px;
+  text: center;
+}
+#content_thelecuocthi
+{
+    color: rgb(255, 207, 0);
+    font-size: 30px;
+}
+
+
+   
+
+.container-img img{
+    transform: scale(0.8); 
+}
+
+.thelevongthi{
+  width: 60%;
+  margin: 0 auto;
+}
+
+#rule-each-round-container
+{
+    
+    position: relative;
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    
+}
+#tamgiac
+{
+    width: 95px;
+    top:3px;
+}
+#doc
+{
+    width:3px;
+    
+    
+}
+
+#ngang
+{
+    position: absolute;
+    top: 95px;
+    left:0;
+    width:100%;
+    height: 6px;
+}
+
+#de1
+{
+    width:174px;
+    position: absolute;
+    top: 58px;
+    left:0;
+}
+#de2
+{
+    width:174px;
+    position: absolute;
+    top: 58px;
+    right:0;
+}
+.rounds
+{
+    background-size:4px;
+    
+    display:flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    width:100%;
+    height: 1050px;
+    padding-top:17px; 
+    
+}
+.round
+{
+    display: flex;
+    flex-direction: column;
+    width:100%;
+    justify-content: center;
+    align-items: center;
+}
+#sgv6
+{
+    width:6px;
+}
+
+.datetime-container
+{
+    width:145px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #f5f5f5;
+}
+
+#round-2-datetime
+{
+    margin-bottom:104px;
+}
+.yellow-full-round
+{
+    background-color: #ffcf00;
+    text-align: right;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width:100%;
+    height: 64px;
+    border-radius: 15px;
+    box-shadow: 0 0 10px 3px #e0e0e0;
+    
+}
+.title
+{
+    color:#fff;
+    font-size: 20px;
+    margin:0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.subtitle
+{
+    color:#fff;
+    font-size: 13px;
+    margin-top:0;
+    margin-bottom: 0;
+    text-align: center;
+
+}
+.date
+{
+    background-color: #f5f5f5;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#868686;
+    margin-bottom: 0;
+    font-weight: 800;
+    font-size: 20px;
+}
+
+
+.white-full-round {
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    border-radius: 15px;
+    height: 40px;
+    box-shadow: 0 0 10px 3px #e0e0e0;
+}
+.title1
+{
+color:#ffcf00;
+font-size: 19px;
+margin:0
+}
+
+.subtitle1
+{
+    color: #868686
+    font-size: 19px;
+    margin-top:0;
+    margin-bottom: 0;
+    text-align: center;
+
+}
+
+/*#white-full-round-left
+{
+    height: 67px;
+}*/
+#title
+{
+    
+    font-size: 20px;
+    margin:0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.text-container
+{
+ font-family: Arial, Helvetica, sans-serif
+ font-size: 14px;
+ background-color: #f5f5f5;   
+}
+
+.circle-img {
+    width: 27px;
+    margin-top: 15px;
+    margin-bottom: 18px;
+}
+
+.round-container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+#round-2-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+.middle-text
+{
+    font-size:14px;
+    margin-top:0;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+   
+
+ #yellow-full-round-left {
+    padding-right: 13px;
+    align-items: flex-end;
+    width: 100%;
+    height: 75px;
+    padding-bottom: 5px;
+    justify-content: center;
+}
+
+ .yellow-full-round {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffcf00;
+    border-radius: 15px;
+    transition: all .5s;
+    height: 64px;
+    box-shadow: 0 0 10px 3px #e0e0e0;
+}
+
+#child-section
+{
+    scroll-snap-align: start;
+}
+
+#rule-section
+{
+    background-color: #ffcf00;
+    width: 100%;
+    height: -moz-fit-content;
+    height: -webkit-fit-content;
+    height: fit-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    padding-bottom: 131px;
+    margin-bottom: -125px;
+}
+.rule-img
+{
+    align-self: flex-end;
+    width: 54.79%;
+    margin-right: 50px;
+}
+}
+ #img-1 {
+    align-self: flex-end;
+    width: 51.74%;
+    margin-right: 50px;
+}
+#img-2 {
+    position: absolute;
+    bottom: -4.23%;
+    left: -11px;
+    width: 32.33%;
+    z-index: 2;
+}
+#img-6
+{
+    position: absolute;
+    width: 8.15%;
+    bottom: 16.7%;
+    left: 35%;
+}
+#rule
+{
+    position: relative;
+    padding-left: 9.37%;
+    padding-right: 80px;
+    height: 518px;
+    width: 781px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    object-fit: contain;
+}
+
+#rule-text
+{
+    position: relative;
+    padding-top: 38px;
+    padding-left: 14.37%;
+    padding-right: 64px;
+    height: 574px;
+    width: 774px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    object-fit: contain;
 }
